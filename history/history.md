@@ -1,10 +1,18 @@
 ## History
 
-![Source: [Wikipedia](https://en.wikipedia.org/wiki/Java_version_history)](https://raw.githubusercontent.com/jsouzadev/java-fundamentals/master/images/history.png)
+![Source: Wikipedia](https://raw.githubusercontent.com/jsouzadev/java-fundamentals/master/images/history.png)
 
 
-# Some links
+## Some links
 
-[Antonio Lazaro](https://antoniolazaro.github.io/java/2017/01/03/evolucao-java/)
-[Time Toast](https://www.timetoast.com/timelines/linha-do-tempo-java--2)
+[AntonioLazaro](https://antoniolazaro.github.io/java/2017/01/03/evolucao-java/)
 
+[TimeToast](https://www.timetoast.com/timelines/linha-do-tempo-java--2)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Java_version_history)
+
+[Tableless](https://tableless.com.br/java-origem/)7
+
+[FreeJavaGuide](http://www.freejavaguide.com/history.html)
+
+[LinhaDeCodigo](http://www.linhadecodigo.com.br/artigo/745/10-anos-de-plataforma-java-a-linha-do-tempo.aspx)
