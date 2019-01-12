@@ -1,6 +1,6 @@
 ## History
 
-![Source: Wikipedia](../gitbook/assets/history.png)
+![Source: Wikipedia](../.gitbook/assets/history.png)
 
 
 ## Some links
