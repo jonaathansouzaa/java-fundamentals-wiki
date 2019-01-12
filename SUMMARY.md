@@ -12,12 +12,12 @@
 
 * [Arrays](arrays/arrays.md)
 
-# Tutorials
+## Tutorials
 
 * Tutorial 1
 * Tutorial 2
 
-# Challenges
+## Challenges
 
 * Challenge 1
 * Challenge 2
