@@ -1,6 +1,6 @@
 ## History
 
-![Source: Wikipedia](https://raw.githubusercontent.com/jsouzadev/java-fundamentals/master/images/history.png)
+![Source: Wikipedia](../images/history.png)
 
 
 ## Some links
