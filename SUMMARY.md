@@ -1,7 +1,5 @@
 ## Topics
 
-* [Introduction](README.md)
-
 * [Java Features](features/features.md)
 
 * [History](history/history.md)
