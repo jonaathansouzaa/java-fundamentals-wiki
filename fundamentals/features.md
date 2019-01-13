@@ -61,3 +61,5 @@ Java supports dynamic compilation and automatic memory management (garbage colle
 ## Java
 
 ![Java](https://github.com/jsouzadev/java-fundamentals-wiki/blob/master/.gitbook/assets/comparative-platform-2.jpg)
+
+[Source: devmedia](https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178)
