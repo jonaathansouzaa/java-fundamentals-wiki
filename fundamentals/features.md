@@ -1,4 +1,4 @@
-## Java Features
+# Java Features
 
 * Simple
 
@@ -18,6 +18,10 @@
 
 * Dynamic
 
+## Other languages
+
 ![Other languages](https://github.com/jsouzadev/java-fundamentals-wiki/blob/master/.gitbook/assets/comparative-platform-1.jpg)
+
+## Java
 
 ![Java](https://github.com/jsouzadev/java-fundamentals-wiki/blob/master/.gitbook/assets/comparative-platform-2.jpg)
