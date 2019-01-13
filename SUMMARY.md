@@ -1,19 +1,28 @@
 ## Topics
 
-* [Java Features](features/features.md)
+* [Java Features](fundamentals/features.md)
 
-* [History](history/history.md)
+* [History](fundamentals/history.md)
 
-* [Variables](variables/variables.md)
+* [Variables](fundamentals/variables.md)
 
-* [Operations](operations/operations.md)
+* [Operations](fundamentals/operations.md)
 
-* [Arrays](arrays/arrays.md)
+* [Arrays](fundamentals/arrays.md)
 
 ## Tutorials
 
-* Tutorial 1
-* Tutorial 2
+* [Git](tutorials/git.md)
+
+* [Java](tutorials/java.md)
+
+* [Eclipse](tutorials/eclipse.md)
+
+* [IntelliJ](tutorials/intellij.md)
+
+* [Gradle](tutorials/gradle.md)
+
+* [Maven](tutorials/maven.md)
 
 ## Challenges
 
