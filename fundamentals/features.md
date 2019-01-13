@@ -17,12 +17,17 @@
 * Distributed
 
 * Dynamic
-   
-   
-   
-   
-   
-   
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Other languages
 
 ![Other languages](https://github.com/jsouzadev/java-fundamentals-wiki/blob/master/.gitbook/assets/comparative-platform-1.jpg)
