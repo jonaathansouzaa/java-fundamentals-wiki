@@ -7,6 +7,8 @@ Java is very easy to learn, and its syntax is simple, clean and easy to understa
    * Java has removed many complicated and rarely-used features, for example, explicit pointers, operator overloading, etc.
    * There is no need to remove unreferenced objects because there is an Automatic Garbage Collection in Java.
 
+asd
+
 * Object-Oriented
 
 * Portable / Platform independent
