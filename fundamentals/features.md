@@ -28,24 +28,29 @@ Java code can be run on multiple platforms, for example, Windows, Linux, Sun Sol
 ## Secured
 
 Java is best known for its security. With Java, we can develop virus-free systems. Java is secured because:
+
 **_No explicit pointer_** 
+
 **_Java Programs run inside a virtual machine sandbox_**
 
 * Classloader: Classloader in Java is a part of the Java Runtime Environment(JRE) which is used to load Java classes into the Java Virtual Machine dynamically. It adds security by separating the package for the classes of the local file system from those that are imported from network sources.
 * Bytecode Verifier: It checks the code fragments for illegal code that can violate access right to objects.
 * Security Manager: It determines what resources a class can access such as reading and writing to the local disk.
-Java language provides these securities by default. Some security can also be provided by an application developer explicitly through SSL, JAAS, Cryptography, etc.
 
-## Interpreted
+Java language provides these securities by default. Some security can also be provided by an application developer explicitly through SSL, JAAS, Cryptography, etc.
 
 ## High Performance
 
-## Multithreaded
+Java is faster than other traditional interpreted programming languages because Java bytecode is "close" to native code. It is still a little bit slower than a compiled language (e.g., C++). Java is an interpreted language that is why it is slower than compiled languages, e.g., C, C++, etc.
 
 ## Distributed
 
+Java is distributed because it facilitates users to create distributed applications in Java. RMI and EJB are used for creating distributed applications. This feature of Java makes us able to access files by calling the methods from any machine on the internet.
+
 ## Dynamic
 
+Java is a dynamic language. It supports dynamic loading of classes. It means classes are loaded on demand. It also supports functions from its native languages, i.e., C and C++.
+Java supports dynamic compilation and automatic memory management (garbage collection).
 
 ## Other languages
 
