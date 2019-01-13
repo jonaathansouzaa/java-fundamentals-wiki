@@ -21,8 +21,8 @@ There are two types of platforms software-based and hardware-based. Java provide
 
 The Java platform differs from most other platforms in the sense that it is a software-based platform that runs on the top of other hardware-based platforms. It has two components:
 
-* 1 Runtime Environment
-* 2 API(Application Programming Interface)
+* Runtime Environment
+* API(Application Programming Interface)
 
 Java code can be run on multiple platforms, for example, Windows, Linux, Sun Solaris, Mac/OS, etc. Java code is compiled by the compiler and converted into bytecode. This bytecode is a platform-independent code because it can be run on multiple platforms, i.e., Write Once and Run Anywhere(WORA).
 
