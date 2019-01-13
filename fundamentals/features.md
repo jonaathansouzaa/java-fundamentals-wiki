@@ -52,6 +52,8 @@ Java is distributed because it facilitates users to create distributed applicati
 Java is a dynamic language. It supports dynamic loading of classes. It means classes are loaded on demand. It also supports functions from its native languages, i.e., C and C++.
 Java supports dynamic compilation and automatic memory management (garbage collection).
 
+[Source: javatpoint](https://www.javatpoint.com/features-of-java)
+
 ## Other languages
 
 ![Other languages](https://github.com/jsouzadev/java-fundamentals-wiki/blob/master/.gitbook/assets/comparative-platform-1.jpg)
